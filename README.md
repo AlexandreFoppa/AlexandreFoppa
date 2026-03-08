@@ -10,7 +10,7 @@ Estudante de Ciências da Computação na Uniritter, cursando desde 2025. Apaixo
 
 ## 📫 Como me encontrar
 - **Email:** xandifu@gmail.com
-- **GitHub:** [GolfinhoFu](https://github.com/GolfinhoFu)
+- **GitHub:** [AlexandreFoppa](https://github.com/AlexandreFoppa)
 - **LinkedIn:** (em construção)
 
 ## 💡 Em construção
