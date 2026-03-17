@@ -11,10 +11,10 @@ Estudante de Ciências da Computação na Uniritter, cursando desde 2025. Apaixo
 ## 📫 Como me encontrar
 - **Email:** xandifu@gmail.com
 - **GitHub:** [AlexandreFoppa](https://github.com/AlexandreFoppa)
-- **LinkedIn:** (em construção)
+- **LinkedIn:** [Alexandre Foppa Ungaretti](https://www.linkedin.com/in/alexandre-foppa-ungaretti/)
 
 ## 💡 Em construção
 Este perfil está em constante evolução. Estou trabalhando em projetos para construir meu portfólio. Fique à vontade para explorar meus repositórios!
 
 ---
-*Última atualização: 2026-03-07*
+*Última atualização: 2026-03-16*
