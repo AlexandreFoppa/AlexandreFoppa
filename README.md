@@ -4,7 +4,7 @@
 Estudante de Ciências da Computação na Uniritter, cursando desde 2025. Apaixonado por tecnologia e sempre buscando aprender coisas novas.
 
 ## 🛠 Habilidades
-- **Linguagens:** Java, Python (em desenvolvimento)
+- **Linguagens:** Java, Python (em desenvolvimento), JavaScript
 - **Banco de Dados:** SQL Server
 - **Ferramentas:** Git, GitHub, Linux, Windows
 
